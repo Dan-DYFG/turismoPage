@@ -5,7 +5,6 @@
 * {
     margin: 0px;
     padding: 0px;
-    font-family: var(--font);
 }
 :root {
     /* Cores */
@@ -101,6 +100,7 @@ img.destino {
 h3 {
     margin: 10px;
     font-size: 1.6em;
+    text-align: left;
 }
 p.paragrafos {
     margin-bottom: 20px;
@@ -134,6 +134,8 @@ strong#orcamento {
 }
 p.agradecimento {
     text-align: center;
+    padding-top: 30px;
+    margin-bottom: 40px;
     
 }
 img#coracao {
