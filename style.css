@@ -5,6 +5,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    font-family: var(--font);
 }
 :root {
     /* Cores */
@@ -70,7 +71,7 @@ h1, h2 {
 }
 img {
     width: 100%;
-    border: 5px solid var(--colorBorder);
+    border: 1px solid var(--colorBorder);
     border-radius: 40px;
     box-shadow: 5px 5px 10px var(--boxShaddowColor)
 }
